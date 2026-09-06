@@ -39,14 +39,8 @@ Full write-up, charts, and recommendations are in the PDF report.
 | File | Description |
 |---|---|
 | `Customer_Retention_Churn_Analysis.pdf` | Client-ready analysis report: churn overview, cohort analysis, driver ranking, and 5 actionable recommendations |
-| `Customer_Retention_Churn_Analysis.docx` | Same report as an editable Word document |
 | `analysis.py` | Data cleaning, churn/cohort metrics, driver ranking, and chart generation (pandas, matplotlib) |
-| `Telco_Churn_Cleaned_for_PowerBI.csv` | Cleaned dataset with tenure cohorts, churn flag, and estimated lifetime value pre-computed, ready for import into a BI tool |
-| `Churn_Interactive_Dashboard.html` | Full interactive dashboard (no install required). Filter by contract, internet service, payment method, and senior citizen status; KPIs, charts, and the driver ranking table recalculate live |
-| `Churn_Dashboard_Simple.html` | Simplified static dashboard: just the 3 headline KPIs and the 3 charts that carry the core story (tenure, contract, internet service), with a one-line takeaway under each |
 | `WA_Fn-UseC_-Telco-Customer-Churn.csv` | Original raw dataset (Kaggle) |
-| `GITHUB_DESCRIPTION.txt` | Suggested GitHub "About" description and topic tags for this repo |
-
 
 ## Tools Used
 
