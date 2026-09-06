@@ -44,7 +44,7 @@ Full write-up, charts, and recommendations are in the PDF report.
 
 ## Tools Used
 
-Python (pandas, matplotlib) in Spyder IDE, ReportLab (PDF generation)
+Python (pandas, matplotlib) in Spyder IDE, Adobe (PDF generation)
 
 ## Skills Gained
 
