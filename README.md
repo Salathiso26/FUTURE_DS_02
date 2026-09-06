@@ -47,17 +47,6 @@ Full write-up, charts, and recommendations are in the PDF report.
 | `WA_Fn-UseC_-Telco-Customer-Churn.csv` | Original raw dataset (Kaggle) |
 | `GITHUB_DESCRIPTION.txt` | Suggested GitHub "About" description and topic tags for this repo |
 
-## Dashboard
-
-A Power BI Desktop dashboard was not available in this environment, so the
-retention dashboard was built as a self-contained interactive HTML file
-(`Churn_Interactive_Dashboard.html`) instead. It reproduces the same KPIs,
-cohort chart, driver charts, and monthly-charges distribution as the PDF
-report, with live filtering by contract, internet service, payment method,
-and senior citizen status. A simplified static version
-(`Churn_Dashboard_Simple.html`) is also included for a quick, no-filter view
-of just the headline story.
-
 
 ## Tools Used
 
